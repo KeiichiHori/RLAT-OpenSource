@@ -50,7 +50,7 @@ Simplified: Scope<br>
 
 ## Theory details
 
-- PhilPapers: [RLAI](https://philpapers.org/rec/HORRLA)
+- PhilPapers: [RLAT](https://philpapers.org/rec/HORRLA)
 
 ## Contact
 
@@ -117,7 +117,7 @@ RLATは哲学理論であり、それを応用したオープンAI下で起動�
 
 ## 理論詳細
 
-- PhilPapers: [RLAI](https://philpapers.org/rec/HORRLA)
+- PhilPapers: [RLAT](https://philpapers.org/rec/HORRLA)
 
 ## 連絡先
 
