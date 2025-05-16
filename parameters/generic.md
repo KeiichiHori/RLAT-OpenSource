@@ -1,0 +1,638 @@
+## 2. Information and Cognition
+
+- **Tool**  
+  - Definition: The means by which relationships move information  
+  - Simplified: Something used
+- **Power**  
+  - Definition: The force by which relationships dominate information  
+  - Simplified: Dominance
+- **Individual**  
+  - Definition: The entity that moves information through a single body  
+  - Simplified: One person
+- **Community**  
+  - Definition: A group where relationships connect information across multiple entities  
+  - Simplified: Group of people
+- **Data**  
+  - Definition: Information concretely represented by relationships  
+  - Simplified: Specific information
+- **Cognition**  
+  - Definition: The state where relationships grasp information through consciousness  
+  - Simplified: Understanding
+- **Memory**  
+  - Definition: The state where relationships retain information in the past  
+  - Simplified: Remembering
+- **Prediction**  
+  - Definition: The act of relationships estimating information in the future  
+  - Simplified: Forecast
+- **Opinion**  
+  - Definition: Words through which relationships subjectively interpret information  
+  - Simplified: Thought
+- **Concept**  
+  - Definition: An abstract representation of information by relationships  
+  - Simplified: Idea
+- **Philosophy**  
+  - Definition: The act of relationships abstractly contemplating and interpreting information  
+  - Simplified: Deep thinking
+- **Ideology**  
+  - Definition: Beliefs that relationships hold about information  
+  - Simplified: Belief
+- **Truth**  
+  - Definition: The state where relationships interpret information as absolutely correct  
+  - Simplified: True fact
+- **Universality**  
+  - Definition: The state where relationships interpret information as applicable everywhere  
+  - Simplified: Applies everywhere
+- **Knowledge**  
+  - Definition: The state where relationships understand and move information  
+  - Simplified: Knowing
+- **Intuition**  
+  - Definition: The state where relationships feel information without reason  
+  - Simplified: Gut feeling
+- **Misunderstanding**  
+  - Definition: The state where relationships incorrectly interpret information  
+  - Simplified: Mistake
+- **Ambiguity**  
+  - Definition: The state where relationships leave information unclear  
+  - Simplified: Vague
+- **Conviction**  
+  - Definition: The state where relationships strongly believe in information  
+  - Simplified: Absolute belief
+- **Hypothesis**  
+  - Definition: The state where relationships tentatively estimate information  
+  - Simplified: Probably so
+
+## 3. Time and Space
+
+- **Space**  
+  - Definition: The place where relationships position information  
+  - Simplified: Location
+- **Movement**  
+  - Definition: The act of relationships moving information in space  
+  - Simplified: Moving
+- **Speed**  
+  - Definition: The rate at which relationships move information over time  
+  - Simplified: Speed
+- **Distance**  
+  - Definition: The spatial separation of information indicated by relationships  
+  - Simplified: Farness
+- **Range**  
+  - Definition: The spatial coverage of information by relationships  
+  - Simplified: Spread
+- **Direction**  
+  - Definition: The path along which relationships advance information  
+  - Simplified: Destination
+- **External**  
+  - Definition: The state where relationships place information outside their context  
+  - Simplified: Outside
+- **Internal**  
+  - Definition: The state where relationships place information within their context  
+  - Simplified: Inside
+- **Duration**  
+  - Definition: The state where relationships maintain information over time  
+  - Simplified: Continuation
+- **Acceleration**  
+  - Definition: The state where relationships increase the speed of information movement  
+  - Simplified: Speeding up
+- **Deceleration**  
+  - Definition: The state where relationships decrease the speed of information movement  
+  - Simplified: Slowing down
+- **Cycle**  
+  - Definition: The state where relationships repeat information at regular intervals  
+  - Simplified: Fixed rhythm
+- **Delay**  
+  - Definition: The state where relationships postpone the movement of information over time  
+  - Simplified: Lag
+
+## 4. Statistics and Probability
+
+- **Number**  
+  - Definition: The tool by which relationships represent information numerically  
+  - Simplified: Number
+- **Probability**  
+  - Definition: The likelihood of information occurring as assessed by relationships  
+  - Simplified: Likelihood
+- **Expectation**  
+  - Definition: The weighted value of information’s likelihood indicated by relationships  
+  - Simplified: How likely it is
+- **Possibility**  
+  - Definition: The range of information that could occur as indicated by relationships  
+  - Simplified: What could happen
+- **Trend**  
+  - Definition: The direction in which relationships indicate information is biased  
+  - Simplified: Which way it leans
+- **Chance**  
+  - Definition: The state where relationships move information unpredictably  
+  - Simplified: By chance
+- **Distribution**  
+  - Definition: The pattern in which relationships spread information  
+  - Simplified: Spread pattern
+- **Average**  
+  - Definition: The central value of information summarized by relationships  
+  - Simplified: Middle value
+- **Correlation**  
+  - Definition: The degree to which relationships indicate multiple pieces of information move together  
+  - Simplified: Moving together
+- **Change Rate**  
+  - Definition: The value indicating the speed of information’s change by relationships  
+  - Simplified: Speed of change
+- **Forecast**  
+  - Definition: The state where relationships predict information in the future  
+  - Simplified: Prediction
+- **Random Number**  
+  - Definition: The tool by which relationships move information with unpredictable values  
+  - Simplified: Random number
+- **Deviation**  
+  - Definition: The value indicating information’s divergence from the average by relationships  
+  - Simplified: How much it differs
+- **Variance**  
+  - Definition: The value indicating the spread of information’s variability by relationships  
+  - Simplified: Spread amount
+- **Standard Deviation**  
+  - Definition: The value indicating the average size of information’s variability by relationships  
+  - Simplified: Average difference
+- **Sample**  
+  - Definition: The state where relationships take a portion of information as representative  
+  - Simplified: Partial data
+- **Population**  
+  - Definition: The state where relationships target the entirety of information  
+  - Simplified: All data
+- **Error**  
+  - Definition: The value indicating the discrepancy between prediction and reality by relationships  
+  - Simplified: Mistake level
+- **Confidence Interval**  
+  - Definition: The range where relationships indicate a prediction is reliable  
+  - Simplified: Trustworthy range
+- **Significance**  
+  - Definition: The certainty that information’s result is not due to chance, as indicated by relationships  
+  - Simplified: Truly meaningful
+- **Regression**  
+  - Definition: The act of relationships predicting information’s movement based on other information  
+  - Simplified: Predicting connection
+- **Bias**  
+  - Definition: The state where relationships tilt information’s trend in one direction  
+  - Simplified: Skew
+- **Noise**  
+  - Definition: Unpredictable movements that disrupt information by relationships  
+  - Simplified: Disturbance
+- **Frequency**  
+  - Definition: The number of times information occurs as indicated by relationships  
+  - Simplified: How often
+- **Accumulation**  
+  - Definition: The state where relationships build up information over time  
+  - Simplified: Piling up
+- **Outlier**  
+  - Definition: The state where relationships indicate an extreme deviation in information  
+  - Simplified: Extreme value
+
+## 5. Hierarchy and Structure
+
+- **Hierarchy**  
+  - Definition: The structure where relationships organize information vertically  
+  - Simplified: Vertical order
+- **Inclusion**  
+  - Definition: The state where relationships encompass information within a larger framework  
+  - Simplified: Encompassing
+- **Branching**  
+  - Definition: The movement where relationships divide information into multiple paths  
+  - Simplified: Splitting
+- **Separation**  
+  - Definition: The act of relationships dividing information independently  
+  - Simplified: Dividing
+- **Dependency**  
+  - Definition: The state where relationships rely on other information  
+  - Simplified: Relying
+- **Mutual**  
+  - Definition: The state where relationships move information bidirectionally  
+  - Simplified: Mutual
+- **Connection**  
+  - Definition: The act of relationships newly linking information  
+  - Simplified: Linking
+- **Base**  
+  - Definition: The state where relationships indicate the lowest position of information  
+  - Simplified: Bottom
+- **System**  
+  - Definition: The state where relationships move information through a consistent mechanism  
+  - Simplified: Mechanism
+- **Equilibrium**  
+  - Definition: The state where relationships maintain information consistently  
+  - Simplified: Balance
+- **Loop**  
+  - Definition: The state where relationships repeatedly move information  
+  - Simplified: Repetition
+- **Constraint**  
+  - Definition: The condition where relationships limit the movement of information  
+  - Simplified: Boundary
+
+## 6. Cost and Resources
+
+- **Cost**  
+  - Definition: The price relationships pay to move information  
+  - Simplified: What it takes
+- **Resource**  
+  - Definition: The usable materials relationships employ to move information  
+  - Simplified: Usable things
+- **Consumption**  
+  - Definition: The act of relationships using and reducing information  
+  - Simplified: Using
+- **Accumulation**  
+  - Definition: The movement where relationships increase information over time  
+  - Simplified: Gathering
+- **Efficiency**  
+  - Definition: The ability of relationships to move information with minimal cost  
+  - Simplified: Easy movement
+- **Energy**  
+  - Definition: The driving force that relationships use to move information  
+  - Simplified: Power source
+- **Capacity**  
+  - Definition: The limit of how much information relationships can store  
+  - Simplified: How much fits
+- **Transformation**  
+  - Definition: The act of relationships changing information into another form  
+  - Simplified: Changing form
+- **Depletion**  
+  - Definition: The state where relationships reduce usable information to zero  
+  - Simplified: Running out
+- **Regeneration**  
+  - Definition: The act of relationships restoring information to a usable state  
+  - Simplified: Coming back
+- **Waste**  
+  - Definition: The act of relationships using information unnecessarily  
+  - Simplified: Wasting
+
+## 7. Effect and Change
+
+- **Effect**  
+  - Definition: The power of relationships to turn information into results  
+  - Simplified: Impact
+- **Influence**  
+  - Definition: The power of relationships to alter information  
+  - Simplified: Changing power
+- **Change**  
+  - Definition: The movement where relationships alter information’s form  
+  - Simplified: Changing
+- **Increase**  
+  - Definition: The movement where relationships amplify information  
+  - Simplified: Growing
+- **Decrease**  
+  - Definition: The movement where relationships reduce information  
+  - Simplified: Shrinking
+- **Collapse**  
+  - Definition: The state where relationships destroy information  
+  - Simplified: Breaking
+- **Revival**  
+  - Definition: The movement where relationships restore information  
+  - Simplified: Returning
+- **Termination**  
+  - Definition: The state where relationships stop information  
+  - Simplified: Ending
+- **Mediation**  
+  - Definition: The act of relationships indirectly connecting information  
+  - Simplified: Bridging
+- **Catalyst**  
+  - Definition: The force that relationships use to facilitate information’s movement  
+  - Simplified: Helper
+- **Resistance**  
+  - Definition: The force that relationships use to hinder information’s movement  
+  - Simplified: Obstruction
+- **Propagation**  
+  - Definition: The movement where relationships spread information  
+  - Simplified: Spreading
+- **Convergence**  
+  - Definition: The state where relationships consolidate information in one direction  
+  - Simplified: Coming together
+- **Growth Rate**  
+  - Definition: The speed at which relationships increase information  
+  - Simplified: Speed of growth
+- **Resilience**  
+  - Definition: The power of relationships to protect information  
+  - Simplified: Endurance
+- **Interaction**  
+  - Definition: The state where relationships mutually affect each other  
+  - Simplified: Mutual influence
+
+## 8. Value and Emotion
+
+- **Value**  
+  - Definition: The criterion by which relationships judge information as important  
+  - Simplified: Importance
+- **Emotion**  
+  - Definition: The state where relationships interpret information through bodily reactions  
+  - Simplified: Feeling
+- **Affection**  
+  - Definition: The state where relationships move information as a positive emotion  
+  - Simplified: Liking
+- **Aversion**  
+  - Definition: The state where relationships move information as a negative emotion  
+  - Simplified: Disliking
+- **Hope**  
+  - Definition: The emotion where relationships desire information  
+  - Simplified: Desire
+- **Satisfaction**  
+  - Definition: The emotion where relationships fulfill information  
+  - Simplified: Contentment
+- **Relief**  
+  - Definition: The emotion where relationships stabilize information  
+  - Simplified: Ease
+- **Tension**  
+  - Definition: The emotion where relationships destabilize information  
+  - Simplified: Stress
+- **Pleasure**  
+  - Definition: The state where relationships feel information comfortably  
+  - Simplified: Comfort
+- **Discomfort**  
+  - Definition: The state where relationships feel information uncomfortably  
+  - Simplified: Unease
+- **Attraction**  
+  - Definition: The power of relationships to draw information  
+  - Simplified: Appeal
+
+## 9. Society and Community
+
+- **Nation**  
+  - Definition: A group where relationships govern information  
+  - Simplified: Country
+- **Culture**  
+  - Definition: The state where relationships shape information through community habits and values  
+  - Simplified: Way of life
+- **Religion**  
+  - Definition: The state where relationships connect information through faith or transcendent norms  
+  - Simplified: Belief system
+- **Parliament**  
+  - Definition: A group where relationships decide information through discussion  
+  - Simplified: Discussion forum
+- **Administration**  
+  - Definition: The mechanism by which relationships govern information  
+  - Simplified: Government
+- **Judiciary**  
+  - Definition: The mechanism by which relationships guide information to punishment or resolution  
+  - Simplified: Justice
+- **Regulation**  
+  - Definition: The rules by which relationships restrict information  
+  - Simplified: Restriction
+- **Diplomacy**  
+  - Definition: The act of relationships coordinating information between different communities  
+  - Simplified: International relations
+- **History**  
+  - Definition: The state where relationships connect information through past events  
+  - Simplified: Past flow
+
+## 10. Economy and Resources
+
+- **Economy**  
+  - Definition: The state where relationships move the flow of money  
+  - Simplified: Money flow
+- **Money**  
+  - Definition: The state where relationships move information as a tool for exchange  
+  - Simplified: Money
+- **Demand**  
+  - Definition: The amount of information relationships seek  
+  - Simplified: Desired amount
+- **Supply**  
+  - Definition: The amount of information relationships provide  
+  - Simplified: Provided amount
+- **Trade**  
+  - Definition: The act of relationships exchanging information across different contexts  
+  - Simplified: Exchange
+- **Food**  
+  - Definition: The state where relationships move information as a resource for survival  
+  - Simplified: Food
+
+## 11. Military and Conflict
+
+- **Military**  
+  - Definition: The force by which relationships dominate information with tools  
+  - Simplified: War power
+- **War**  
+  - Definition: The state where relationships dominate information with violent tools  
+  - Simplified: Battle
+- **Conflict**  
+  - Definition: The state where relationships move information in opposition  
+  - Simplified: Clash
+- **Competition**  
+  - Definition: The act of relationships vying for information  
+  - Simplified: Rivalry
+- **Sanction**  
+  - Definition: The act of relationships restricting information as punishment  
+  - Simplified: Penalty
+
+## 12. Cooperation and Coordination
+
+- **Cooperation**  
+  - Definition: The act of relationships moving information together  
+  - Simplified: Together
+- **Sharing**  
+  - Definition: The act of relationships dividing information  
+  - Simplified: Dividing
+- **Operation**  
+  - Definition: The act of relationships moving information with tools  
+  - Simplified: Using tools
+- **Technology**  
+  - Definition: The knowledge or methods by which relationships move information  
+  - Simplified: Method
+- **Adaptation**  
+  - Definition: The act of relationships adjusting information to the environment  
+  - Simplified: Adjusting
+
+## 13. Education and Learning
+
+- **Education**  
+  - Definition: The act of relationships teaching information  
+  - Simplified: Teaching
+- **Literacy**  
+  - Definition: The act of relationships understanding and moving information through words  
+  - Simplified: Reading and writing
+- **Learning**  
+  - Definition: The act of relationships changing information through experience  
+  - Simplified: Learning
+
+## 14. Nature and Environment
+
+- **Nature**  
+  - Definition: The state where relationships move information through non-human forces  
+  - Simplified: Nature
+- **Environment**  
+  - Definition: The state where relationships move information as the surrounding context  
+  - Simplified: Surroundings
+- **Disaster**  
+  - Definition: The state where relationships move information as an unpredictable, destructive force  
+  - Simplified: Catastrophe
+- **Material**  
+  - Definition: The state where relationships move information as tangible tools  
+  - Simplified: Object
+- **Suitability**  
+  - Definition: The state where relationships align information appropriately  
+  - Simplified: Perfect fit
+- **Anomaly**  
+  - Definition: The state where relationships indicate unusual movements of information  
+  - Simplified: Strange
+- **Crisis**  
+  - Definition: The state where relationships expose information to danger  
+  - Simplified: Danger
+- **Opportunity**  
+  - Definition: The possibility where relationships move information advantageously  
+  - Simplified: Chance
+- **Saturation**  
+  - Definition: The state where relationships reach the limit of information’s movement  
+  - Simplified: Full
+
+## 15. Life and Health
+
+- **Birth**  
+  - Definition: The state where relationships initiate new information  
+  - Simplified: Born
+- **Death**  
+  - Definition: The state where relationships completely stop information  
+  - Simplified: Death
+- **Illness**  
+  - Definition: The state where relationships weaken information  
+  - Simplified: Sickness
+- **Health**  
+  - Definition: The state where relationships maintain information strongly  
+  - Simplified: Wellness
+- **Medical Care**  
+  - Definition: The act of relationships restoring information  
+  - Simplified: Healing
+- **Pregnancy**  
+  - Definition: The state where relationships nurture new information  
+  - Simplified: In the womb
+
+## 16. Relationships and Gender
+
+- **Marriage**  
+  - Definition: The promise by which relationships bind information  
+  - Simplified: Bonding
+- **Male**  
+  - Definition: The state where relationships move information as a biological sex  
+  - Simplified: Man
+- **Female**  
+  - Definition: The state where relationships move information as a biological sex  
+  - Simplified: Woman
+- **Betrayal**  
+  - Definition: The act of relationships breaking a promise with information  
+  - Simplified: Betrayal
+- **Loyalty**  
+  - Definition: The state where relationships bind information to a promise  
+  - Simplified: Faithfulness
+
+## 17. Evaluation and Trust
+
+- **Evaluation**  
+  - Definition: The act of relationships judging information  
+  - Simplified: Judgment
+- **Accuracy**  
+  - Definition: The state where relationships move information without deviation  
+  - Simplified: Exact
+- **Evidence**  
+  - Definition: Data that relationships use to clarify information  
+  - Simplified: Proof
+- **Trust**  
+  - Definition: The emotion where relationships believe in information  
+  - Simplified: Belief
+- **Reliability**  
+  - Definition: The state where relationships depend on information  
+  - Simplified: Dependable
+- **Success**  
+  - Definition: The state where relationships achieve a desired result with information  
+  - Simplified: Success
+- **Failure**  
+  - Definition: The state where relationships reach an undesired result with information  
+  - Simplified: Failure
+
+## 18. Force and State
+
+- **Strength**  
+  - Definition: The force by which relationships move information significantly  
+  - Simplified: Strong force
+- **Weakness**  
+  - Definition: The force by which relationships move information minimally  
+  - Simplified: Weak force
+- **Dominance**  
+  - Definition: The force by which relationships strongly control information  
+  - Simplified: Control
+- **Stability**  
+  - Definition: The state where relationships calm information  
+  - Simplified: Calm
+- **Fluidity**  
+  - Definition: The state where relationships move information freely  
+  - Simplified: Flow
+- **Scale**  
+  - Definition: The range where relationships move information significantly  
+  - Simplified: Size
+- **Dignity**  
+  - Definition: The state where relationships move information as respected power  
+  - Simplified: Nobility
+- **Friction**  
+  - Definition: The force that relationships use to wear down information’s movement  
+  - Simplified: Wear
+- **Elasticity**  
+  - Definition: The force that relationships use to restore information  
+  - Simplified: Bounce back
+- **Rigidity**  
+  - Definition: The force that relationships use to keep information firm  
+  - Simplified: Hardness
+- **Vulnerability**  
+  - Definition: The state where relationships make information prone to breaking  
+  - Simplified: Fragility
+- **Flexibility**  
+  - Definition: The force that relationships use to freely change information  
+  - Simplified: Softness
+
+## 19. Risk
+
+- **Risk**  
+  - Definition: The possibility that relationships make information dangerous  
+  - Simplified: Danger
+- **Damage**  
+  - Definition: The result where relationships destroy information  
+  - Simplified: Harm
+- **Security**  
+  - Definition: The state where relationships keep information safe  
+  - Simplified: Safety
+
+## 20. Decision-Making and Priority
+
+- **Condition**  
+  - Definition: The prerequisite for relationships to move information  
+  - Simplified: If
+- **Choice**  
+  - Definition: The act of relationships selecting one piece of information  
+  - Simplified: Choosing
+- **Priority**  
+  - Definition: The criterion by which relationships choose information first  
+  - Simplified: First to do
+- **Cause**  
+  - Definition: The trigger that relationships use to move information  
+  - Simplified: Reason
+- **Result**  
+  - Definition: The state that relationships reach with information  
+  - Simplified: Outcome
+- **Balance**  
+  - Definition: The state where relationships maintain information evenly  
+  - Simplified: Equilibrium
+- **Restriction**  
+  - Definition: The force that relationships use to stop information  
+  - Simplified: Stop
+- **Hesitation**  
+  - Definition: The state where relationships cannot choose information  
+  - Simplified: Doubt
+- **Transcendence**  
+  - Definition: The state where relationships move information beyond limits  
+  - Simplified: Surpassing
+
+## 21. Miscellaneous (Supplementary Parameters)
+
+- **Coordinate**  
+  - Definition: The position where relationships place information in space  
+  - Simplified: Where it is
+- **Intensity**  
+  - Definition: The degree of information’s magnitude or impact indicated by relationships  
+  - Simplified: How strong
+- **Trend**  
+  - Definition: The temporal direction of information’s movement indicated by relationships  
+  - Simplified: How it changes
+- **Color**  
+  - Definition: The tool by which relationships visually distinguish information  
+  - Simplified: Distinguishing color
+- **Legend**  
+  - Definition: The tool by which relationships explain the meaning of information  
+  - Simplified: What it represents
