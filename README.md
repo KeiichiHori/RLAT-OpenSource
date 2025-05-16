@@ -1,5 +1,5 @@
 # RLAT: Ronri Lonely AI Tactics
-RLAT is a philosophical theory and a versatile simulation　framework operable under open AI systems. The theory focuses on the dynamics of relationships under the uncertainty caused by the finite nature of the body. By applying this theory, users can perform highly efficient, general-purpose simulations through simple copy-and-paste operations in open AI environments. Its simple parameters enable the analysis and redesign of diverse phenomena, with high customizability for users.
+RLAT is a philosophical theory and a versatile simulation framework operable under open AI systems. The theory focuses on the dynamics of relationships under the uncertainty caused by the finite nature of the body. By applying this theory, users can perform highly efficient, general-purpose simulations through simple copy-and-paste operations in open AI environments. Its simple parameters enable the analysis and redesign of diverse phenomena, with high customizability for users.
 The core code (parameters) is provided below.
 
 ## Core Parameters
