@@ -48,6 +48,10 @@ Simplified: Scope<br>
 2. Run simulations `/simulations/sample1.md` ~ `/simulations/sample9.md` in your preferred open AI environment.<br>
 3. Submit proposals to `/contributions.md` via Issues!<br>
 
+## Theory details
+
+- PhilPapers: [RLAI](https://philpapers.org/rec/HORRLA)
+
 ## Contact
 
 - X: [RLAITactics](https://x.com/RLAITactics)
@@ -110,6 +114,10 @@ RLATは哲学理論であり、それを応用したオープンAI下で起動�
 1. `parameters/core(jpn).md`をダウンロード。<br>
 2. 好きなオープンAIでシミュレーション `/simulations(jpn)/sample1.md` ~ `/simulations(jpn)/sample9.md` を試す。<br>
 3. 提案は`/contributions.md`にIssue投稿！<br>
+
+## 理論詳細
+
+- PhilPapers: [RLAI](https://philpapers.org/rec/HORRLA)
 
 ## 連絡先
 
