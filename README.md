@@ -45,8 +45,13 @@ Simplified: Scope<br>
 
 ## Usage
 1. Download `parameters/core.md`.<br>
-2. Run simulations `/simulations/sample1.md` in your preferred open AI environment.<br>
+2. Run simulations `/simulations/sample1.md` ~ `/simulations/sample9.md` in your preferred open AI environment.<br>
 3. Submit proposals to `/contributions` via Issues!<br>
+
+## Contact
+
+- X: [RLAITactics](https://x.com/RLAITactics)
+- note: [rlaitactics](https://note.com/rlaitactics)
 
 ## License
 MIT License
@@ -103,8 +108,13 @@ RLATは哲学理論であり、それを応用したオープンAI下で起動�
 
 ## 使い方
 1. `parameters/core(jpn).md`をダウンロード。<br>
-2. 好きなオープンAIでシミュレーション`/simulations/sample1.md`を試す。<br>
+2. 好きなオープンAIでシミュレーション `/simulations(jpn)/sample1.md` ~ `/simulations(jpn)/sample9.md` を試す。<br>
 3. 提案は`/contributions`にIssue投稿！<br>
+
+## 連絡先
+
+- X: [RLAITactics](https://x.com/RLAITactics)
+- note: [rlaitactics](https://note.com/rlaitactics)
 
 ## ライセンス
 MIT License
