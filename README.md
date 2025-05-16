@@ -44,7 +44,7 @@ Definition: The range or hierarchy of relationships moving information<br>
 Simplified: Scope<br>
 
 ## Usage
-1. Download `parameters/core.json`.<br>
+1. Download `parameters/core.md`.<br>
 2. Run simulations `/simulations/sample1.md` in your preferred open AI environment.<br>
 3. Submit proposals to `/contributions` via Issues!<br>
 
@@ -102,7 +102,7 @@ RLATは哲学理論であり、それを応用したオープンAI下で起動�
 シンプル化: 大きさ<br>
 
 ## 使い方
-1. `parameters/core.json`をダウンロード。<br>
+1. `parameters/core(jpn).md`をダウンロード。<br>
 2. 好きなオープンAIでシミュレーション`/simulations/sample1.md`を試す。<br>
 3. 提案は`/contributions`にIssue投稿！<br>
 
